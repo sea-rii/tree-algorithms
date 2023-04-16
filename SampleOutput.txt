@@ -1,0 +1,32 @@
+This solution was completed by:
+<student name>
+
+HUFFMAN TREE TEST #1:
+The character 'a' is encoded as 0
+The character 'b' is encoded as 100
+The character 'c' is encoded as 101
+The character 'd' is encoded as 11
+
+HUFFMAN TREE TEST #2:
+The character 'a' is encoded as 0000
+The character 'b' is encoded as 0001
+The character 'c' is encoded as 0011
+The character 'd' is encoded as 0010
+The character 'e' is encoded as 01
+The character 'f' is encoded as 1
+
+AVL TREE TEST:
+Time to insert (in seconds): 0.000271
+Time to remove (in seconds): 0.000379
+
+SEGMENT TREE TEST #1:
+Your segment tree computed a solution of 8
+Your algorithm worked correctly (i.e. same as provided solution)
+
+SEGMENT TREE TEST #2:
+Your segment tree computed a solution of 7
+Your algorithm worked correctly (i.e. same as provided solution)
+
+SEGMENT TREE TEST #3:
+Your segment tree computed a solution of 5
+Your algorithm worked correctly (i.e. same as provided solution)
