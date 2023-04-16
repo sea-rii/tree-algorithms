@@ -1,3 +1,5 @@
+Assignment - TREE ALGORITHMS
+
 For this assignment you’ll be implementing several tree-based algorithms that we saw in
 class. Specifically you’re editing only “tree.c”. You shouldn’t need to change any other files.
 Here are your algorithms to implement:
